@@ -1,8 +1,6 @@
 
 # OnShop - Electronics E-Commerce Store
 
-![OnShop Banner](https://via.placeholder.com/1200x400?text=OnShop+E-Commerce) <!-- Replace with actual banner -->
-
 A modern, responsive e-commerce website template for electronics built with pure HTML, CSS, and JavaScript.
 
 ## Features
